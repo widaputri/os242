@@ -7,3 +7,4 @@ permalink: LINKS/
 # WEEK 02
 - [**Markdown Guide**](https://www.markdownguide.org/basic-syntax/) - Guide to make this file prettier
 - [**Week 02's Past Lecture Recording**](https://www.youtube.com/watch?v=QpmAKN9j2ks) - To review this week's materials
+- [**Regex Refresher**](https://www.youtube.com/watch?v=bgBWp9EIlMM) - Short but complete guide to regular expressions
