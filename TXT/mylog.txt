@@ -16,6 +16,7 @@ ZCZC W01 60 L11 Assignment #01
 ZCZC W02 99 L02 Class
 ZCZC W02 99 L05 Quiz Review
 ZCZC W02 20 L05 Quiz
-ZCZC W01 60 L12 Assignment #02
-ZCZC W01 60 L12 Assignment #02
-ZCZC W01 60 L12 Assignment #02
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 10 L12 Assignment #02
