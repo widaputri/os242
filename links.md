@@ -8,3 +8,7 @@ permalink: LINKS/
 - [**Markdown Guide**](https://www.markdownguide.org/basic-syntax/) - Guide to make this file prettier
 - [**Week 02's Past Lecture Recording**](https://www.youtube.com/watch?v=QpmAKN9j2ks) - To review this week's materials
 - [**Regex Refresher**](https://www.youtube.com/watch?v=bgBWp9EIlMM) - Short but complete guide to regular expressions
+
+# WEEK 03
+- [**Week 03's Past Lecture Recording**](https://www.youtube.com/watch?v=PBkZynNIZWk) - To review this week's materials
+- [**Learn C Language In 10 Minutes!! C Language Tutorial**](https://www.youtube.com/watch?v=dTp0c41XnrQ) - Quick and simple C guide.
