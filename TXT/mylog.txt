@@ -1,3 +1,4 @@
+
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://doit.vlsm.org/ETC/logCodes.txt
@@ -24,4 +25,6 @@ ZCZC W03 99 L02 Class
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 60 L13 Assignment #03
-
+ZCZC W04 20 L05 Quiz
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 60 L14 Assignment #04
