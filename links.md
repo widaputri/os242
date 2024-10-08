@@ -17,3 +17,6 @@ permalink: LINKS/
 - [**Week 04's Past Lecture Recording**](https://www.youtube.com/watch?v=uFj7mKNq1t0) - To review this week's materials
 - [**SCP Guide**](https://medium.com/@tericcabrel/how-to-copy-files-over-ssh-8aff6b7c560f) - To copy files from and to the local computer
 
+# WEEK 05
+- [**Week 05's Past Lecture Recording pt. 1**](https://youtu.be/E7pmf5pySTM)
+- [**Week 05's Past Lecture Recording pt. 2**](https://youtu.be/y0LkcoFO1jU) - To review this week's materials

@@ -28,3 +28,6 @@ ZCZC W03 60 L13 Assignment #03
 ZCZC W04 20 L05 Quiz
 ZCZC W04 60 L14 Assignment #04
 ZCZC W04 60 L14 Assignment #04
+ZCZC W05 20 L05 Quiz
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 60 L15 Assignment #05
