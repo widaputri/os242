@@ -20,3 +20,8 @@ permalink: LINKS/
 # WEEK 05
 - [**Week 05's Past Lecture Recording pt. 1**](https://youtu.be/E7pmf5pySTM)
 - [**Week 05's Past Lecture Recording pt. 2**](https://youtu.be/y0LkcoFO1jU) - To review this week's materials
+
+# WEEK 06
+- [**Week 06's Past Lecture Recording: Process 212**](https://youtu.be/-pL2fAdb7Kw)
+- [**Week 06's Past Lecture Recording: Process 211**](https://youtu.be/fwAU6pyb6Tk) - To review this week's materials
+
