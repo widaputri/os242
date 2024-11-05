@@ -33,3 +33,6 @@ ZCZC W05 60 L15 Assignment #05
 ZCZC W05 60 L15 Assignment #05
 ZCZC W06 60 L16 Assignment #06
 ZCZC W06 60 L16 Assignment #06
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 20 L05 Quiz

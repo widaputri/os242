@@ -25,3 +25,6 @@ permalink: LINKS/
 - [**Week 06's Past Lecture Recording: Process 212**](https://youtu.be/-pL2fAdb7Kw)
 - [**Week 06's Past Lecture Recording: Process 211**](https://youtu.be/fwAU6pyb6Tk) - To review this week's materials
 
+# WEEK 07
+- [**Process Synchonization**](https://www.youtube.com/watch?v=ph2awKa8r5Y) - Video on process synchronization
+
