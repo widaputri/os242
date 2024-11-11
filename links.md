@@ -28,3 +28,5 @@ permalink: LINKS/
 # WEEK 07
 - [**Process Synchonization**](https://www.youtube.com/watch?v=ph2awKa8r5Y) - Video on process synchronization
 
+# WEEK 08
+- [**Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial**](https://www.youtube.com/watch?v=vMdPHpPiy4Q) - Building Linux from Scratch
