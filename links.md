@@ -1,5 +1,6 @@
 ---
 permalink: LINKS/
+
 ---
 
 [Course Website](https://os.vlsm.org/) - Contains assignments, reports, materials, and other helpful resources
@@ -30,3 +31,7 @@ permalink: LINKS/
 
 # WEEK 08
 - [**Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial**](https://www.youtube.com/watch?v=vMdPHpPiy4Q) - Building Linux from Scratch
+
+
+# WEEK 09
+- [**Chapters 6-7 of Linux from Scratch**](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) - Self explanatory
