@@ -35,3 +35,6 @@ permalink: LINKS/
 
 # WEEK 09
 - [**Chapters 6-7 of Linux from Scratch**](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) - Self explanatory
+
+# WEEK 10
+- [**Chapter 8 of Linux from Scratch**](https://www.linuxfromscratch.org>
